@@ -1,0 +1,2 @@
+[console_scripts]
+parse-financial-data = core.excel_processor:main
